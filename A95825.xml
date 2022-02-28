@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and certaine relation of His Maiesties sad condition in Hurst-Castle, in Hamp-shire. VVith the manner how hee was taken out of his bed on Saturday night last, to the amazement of the inhabitants there: with the imprisoning of Captaine Cooke, who was appointed Governour by the inhabitants, in stead of Colonell Hammond. Also, the sad condition of the Maior and aldermen of Newport, for their allegiance to His Majesty; this being done without the knowledge of the Parliament, with other remarkable passages.</title>
+            <author>Vaughan, George, of Newport, Isle of Wight.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95825</idno>
+            <idno type="STC">Wing V120A</idno>
+            <idno type="STC">Thomason E475_19</idno>
+            <idno type="STC">ESTC R205402</idno>
+            <idno type="EEBO-CITATION">99864798</idno>
+            <idno type="PROQUEST">99864798</idno>
+            <idno type="VID">117030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117030)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and certaine relation of His Maiesties sad condition in Hurst-Castle, in Hamp-shire. VVith the manner how hee was taken out of his bed on Saturday night last, to the amazement of the inhabitants there: with the imprisoning of Captaine Cooke, who was appointed Governour by the inhabitants, in stead of Colonell Hammond. Also, the sad condition of the Maior and aldermen of Newport, for their allegiance to His Majesty; this being done without the knowledge of the Parliament, with other remarkable passages.</title>
+                  <author>Vaughan, George, of Newport, Isle of Wight.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.8: George Vaughan.</note>
+                  <note>Annotation on Thomason copy: "Dec: 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117030:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 112 -->
+            <p>A true and certaine RELATION Of His Maieſties ſad CONDITION IN HURST-CASTLE, in Hamp-ſhire.</p>
+            <p>VVith the Manner how Hee was taken out of His Bed on <hi>Saturday</hi> night l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt, to the amazement of the Inhabitants there: With th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> im<g ref="char:EOLhyphen"/>priſoning of Captain <hi>Cooke,</hi> who was appointed Governour by the Inhabitants, in ſtead of Colonell <hi>Hammond.</hi> Alſo, the ſad-condition of the Maior and Aldermen of <hi>Newport</hi> for their Allegiance to His Majeſty. This being done without the knowledge of the Parliament, with other remarkable Paſſage.</p>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:117030:2"/>
+            <!-- PDF PAGE 113 -->
+            <head>A LETTER FROM THE ISLE OF VVIGHT.</head>
+            <opener>
+               <salute>Noble Dick:</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">N</seg>Ova rerum facies</hi> here no Planet raignes in the Iſle of <hi>Wight</hi> but the Moone, my heart is at leaſt a ſtone ligher ſince my laſt of the 28 of <hi>November,</hi> our cafe is altered (God be th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed) with <hi>Ploydons. Wedneſday</hi> the 29 of the laſt whether of his owne moving (which all in<g ref="char:EOLhyphen"/>clines unto) or by the advice of others it is not knowne: the King ſent for the Major and Brethren of <hi>Newport,</hi> with other chiefe of the To<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n declared unto them before the Parliaments Commiſſioners what hee had granted for the content of his people, and how hee had quite for ſome time deceſted him<g ref="char:EOLhyphen"/>ſelfe of the very eſſence of authority, and received nought but the ſhadow to give ſatisfaction unto his two Houſes in all their propoſalls put up to him, (and therein referred them unto the Commiſſioners there preſent who confirmed the ſame) that not withſtanding all this he was like to be uſed as they ſaw, (and for ought he knew as bad, nay farre worſe then before, (ſeeing the Generall had of his owne Head as farre as he could learne, ſent thoſe three (I writ of) to order and diſpoſe of His Perſon,
+<pb n="6" facs="tcp:117030:3"/>
+               <!-- PDF PAGE 114 -->according to their private inſtruction of the ſaid men, or perhaps of one that His Maieſty had reaſon to diſ<g ref="char:EOLhyphen"/>like worſe then hee, <hi>(Cromwell)</hi> and therefore as His leige people he requeſted their helpe and aſſiſtance to preſerve Him from undeſerued bondage, to which his Maieſty thought they were bound to do, not onely by the law of God, but by the vertue of the oath of <hi>Alle<g ref="char:EOLhyphen"/>giance, Supremacie, Protestation,</hi> and <hi>Covenant,</hi> at the hearing of this, the Maior and his aſſiſtants after reve<g ref="char:EOLhyphen"/>rence on their knees; proteſted unto the King, <hi>that ſee<g ref="char:EOLhyphen"/>ing His Majesty and his Parliament were agreed, that they would defend him both in honour &amp; ſafty with lives, bodies, and fortunes, and that during his Majesties plea<g ref="char:EOLhyphen"/>ſure and his Parliaments for his above there, and that they truſted that he ſhould ſhortly find the maine Inhabi<g ref="char:EOLhyphen"/>tants of the Iſle of the ſame opinion,</hi> which accordingly fell out, for on <hi>Thurſday</hi> towards noone I think almoſt all the people came to the Towne, and with open ac<g ref="char:EOLhyphen"/>clamations made good the ſame. Nay, one <hi>Wilckes</hi> a Brewer at the <hi>Greybound</hi> told Maior <hi>Bolfe, That if hee or any elſe attempted to reſtraine, guard or keep the King there, (or other wiſe then He pleaſed) that it were better for them to be a keeping of Sheep [in the Garden before the Kings face]</hi> his Maieſty was much taken with the ſo<g ref="char:EOLhyphen"/>ber bluntneſſe of this Fellow, ſo that GOD be bleſſed His Maieſty hath the ſolace the Iſland can afford him now with promiſe of protection, till ſuch time as His Parliament ſhall thinke fit to ſend for him to <hi>London</hi> in honour. His Maieſty likewiſe hath paſt his Kingly word to them not to put himſelfe out of their truſt &amp; protection, ſave with their knowledge.</p>
+            <p>
+               <pb n="7" facs="tcp:117030:3"/>
+               <!-- PDF PAGE 114 -->
+Colonell <hi>Ewer</hi> and his two collaterals have leaſure to return, or if they like otherwiſe to fiſh in the Iſland for ought they need trouble themſelves about attend<g ref="char:EOLhyphen"/>ing the King after their gap'd for wiſh, the ſpeciall charge of waiting upon His Maieſty is by the generall vote and agreement of all the Iſland conferred on one Captaine <hi>Cooke,</hi> Marſhall of Colonell <hi>Hammonds</hi> re<g ref="char:EOLhyphen"/>giment, an honeſt-heartie true Troian, and an old Blade that of my conſcience loves the King wonder<g ref="char:EOLhyphen"/>full well, and is right ioyfull of the credit, and oper<g ref="char:EOLhyphen"/>tunitie in any way to ſerue or obey His Maieſty, the Iſland have ſo good an opinion of him that they have made him as it were Commander in chiefe over them till it ſhall pleaſe the Parliament to take further or<g ref="char:EOLhyphen"/>der for a Governour.</p>
+            <p>In faith I doe verily beleeve the Inhabitants of the Iſland to be betweene ſeven or eight thouſand fight<g ref="char:EOLhyphen"/>ing men, an Every compleatly arm'd.</p>
+            <p>The Parliament, Gariſons here doe let them take their owne way, ſome being better content with it than others, but all willing to ſtrike to neceſſity, for I doe iudge the meere Souldierie of the Armie at this preſent remaining in the Iſland to be about five or ſix hundred or neare thereupon, if the Inhabitants of the Iſland ſtand upon it, the places of landing are of that advantage to them, and ſo diſadvantagoeus to the ap<g ref="char:EOLhyphen"/>proachers, that they are able to keep out a very con<g ref="char:EOLhyphen"/>ſiderable force for a good time.</p>
+            <p>Here came hither <hi>Thurſday</hi> night laſt of Pinaces &amp; Frigats to the number of 9. from my Lord of <hi>Warwick,</hi>
+               <pb n="6" facs="tcp:117030:4"/>
+               <!-- PDF PAGE 115 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:117030:4"/>
+               <!-- PDF PAGE 115 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:117030:5"/>
+               <!-- PDF PAGE 116 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:117030:5"/>
+               <!-- PDF PAGE 116 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:117030:6"/>
+               <!-- PDF PAGE 117 -->who declares for the King and Parliament, and is ap<g ref="char:EOLhyphen"/>poynted as we heare to carry His Maieſty to <hi>London</hi> by Sea, as alſo we are given to underſtand by ſome of his Officers that come a ſhore, that the agreement be<g ref="char:EOLhyphen"/>twixt the Prince and his Lordſhip is in a fair advance and that His Highneſſe will be content to ſurrender him the Ships upon aſſureance, and engagement to keepe them for the King and Parliament, according to the tenure of the Treaty.</p>
+            <p>And that the Maſters and Captaines of them with other Officers may have benefit of the Pardon, Acts of Oblivion and Indempnity, and continve their pla<g ref="char:EOLhyphen"/>ces upon ſecurity of their faithfulneſſe, and obedience for hereafter, according to the Articles of the Trea<g ref="char:EOLhyphen"/>tie.</p>
+            <p>But his Lordſhip muſt pardon His Maieſty if hee chuſe rather to ſtay in the Iſland, as wee are plainly here informed; for hither came one of His Maieſties Scalding-Houſe that dwells at <hi>Windſor</hi> on <hi>Thurſday</hi> laſt who having Officers of the Lord Generalls, of great qualitie qua<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>red in hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> houſe, and did avouch to us that the generall reſolu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of the Army was with<g ref="char:EOLhyphen"/>in very few dayes to march for <hi>London,</hi> and to order and alter matters not onely in the Citie but even at <hi>Weſtminſter</hi> likewiſe, and ſpake large words, not onely concerning His Maieſties Perſon but His Life.</p>
+            <p>GOD in mercy defend Him, for ſurely the hand of wickedneſſe is very high, the billowes of contempti<g ref="char:EOLhyphen"/>ous pride ſwells beyond meaſure. Yet God cannot a hooke into this and a ſway, that when hee pleaſeth, mans neceſſitie being often time Gods opertunitie.</p>
+            <p>
+               <pb n="7" facs="tcp:117030:6"/>
+               <!-- PDF PAGE 117 -->
+But as touching Mrs <hi>Parliament</hi> it is univerſally thought that the Army will purge there, and there<g ref="char:EOLhyphen"/>fore gave them a taſte of its <hi>Remonſtrance.</hi> Firſt, to o<g ref="char:EOLhyphen"/>pen her paſſages, that ſhe may go to it the better.</p>
+            <p>Some think that the Army will phlebotomiſe her, which if it doth and ſtops not bleeding before good blood, I am afraid they will not leave her ſo much good blood in the body as will go into an egge ſhell: queſtionleſſe her long <hi>vitaſe adventaria,</hi> hath contra<g ref="char:EOLhyphen"/>cted not onely cr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dity, but many ill and p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccant hu<g ref="char:EOLhyphen"/>mours. One ſaid that at the reading of the Remon<g ref="char:EOLhyphen"/>ſtrance in the Houſe they throng together as ſheep that had been run at by the wolfe. She hath long lain in, long kept her chamber, been a long time trouble<g ref="char:EOLhyphen"/>ſome, ſo that her very friends (even toiled out) do wiſh her ſpeedy mending or ending. She is prayed for on ſea and land, in the Iſland and Continent, town and Country, yea over all the foure roades of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> (that God would take her to his mercy, ſhe ho<g ref="char:EOLhyphen"/>ped for ſome reſtorative by the Treaty, but it is ſaid, that the Generall ſaith it is too eaſie a potion for her, and that he muſt give her ſome ſtronger phyſick, for certain he intends by Glyſter to draw away her co<g ref="char:EOLhyphen"/>ſtiveneſſe of <hi>Preſbyterie,</hi> and to put her it to a tempe<g ref="char:EOLhyphen"/>rament of ſoluble <hi>Independency.</hi>
+            </p>
+            <p>Oh me, how theſe two factions of <hi>Preſbyterie</hi> and <hi>Independency</hi> have ſquared it a long time, the one up, the other down, like two well buckets hanging and drawing one another, but now it ſeemes <hi>Independency</hi> is minded to dally no longer, but ſtill to be aloft, and let <hi>Presbyterie</hi> for ever keep in the well; <hi>chacun
+<pb n="8" facs="tcp:117030:7"/>
+                  <!-- PDF PAGE 118 -->choſe ſon tour c'est le ieu du monde: cras mihi, hodie ti<g ref="char:EOLhyphen"/>bi,</hi> a dog will have a day.</p>
+            <closer>
+               <signed>Yours to command, <hi>George Vaughan.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <opener>
+               <salute>Gentle Reader:</salute>
+            </opener>
+            <p>Thou muſt not wonder in this change<g ref="char:EOLhyphen"/>able world, that what was moſt true one day is falſe the next for ſince the date of this Letter written by a Perſonage of honour out of the Iſland; and which hates falſhood as much as baſeneſſe, the condition of all things is ſtrangely al<g ref="char:EOLhyphen"/>tered there: ſome additionall forces on a ſudden arriving to the furtherance and aid of Collonell Ewer in his deſigne. His Majeſty Satturday at night wonderfull late, or Sunday morning extream early, was ſeiſed in his chamber, yea in bed, compelled to make ready ſtraight, put into a catch, and forthwith p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſed over to Hurſt-Caſtle, in Hampſhire, ſtand<g ref="char:EOLhyphen"/>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g up<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Sands, his condition there is moſt ſad and diſ<g ref="char:EOLhyphen"/>mall, being kept cloſe pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſoner, and having not any either of his own Servants or acquaintance about him, and by the appointment and order of the Army, onely the Parliament no way viſibly intermedling or apppoving it; and that after he had condeſcended unto and offered further to ratifie what<g ref="char:EOLhyphen"/>ſoever had been requeſted of him.</p>
+            <p>Capta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Cook who by the appointment of the inhabitants of the Iſle<g ref="char:punc">▪</g> Thurſday laſt had the guard of His Majeſty is kept priſoner<g ref="char:punc">▪</g> and the Major and Aldermen for their forward<g ref="char:EOLhyphen"/>neſſe ſhewed toward the mainteining of him in the iſland in danger to be further queſtioned about it.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
